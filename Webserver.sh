@@ -1,1 +1,3 @@
-This is Web Server Script
+#!/bin/sh
+
+echo "Hello World"
