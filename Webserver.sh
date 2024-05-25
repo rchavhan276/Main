@@ -2,7 +2,7 @@
 
 sudo yum update
 
-sudo yum install httpd
+sudo yum -y install httpd
 
 systemctl start httpd
 
