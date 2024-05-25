@@ -1,8 +1,8 @@
 #!/bin/sh
 
-sudo yum update
+yum update
 
-sudo yum -y install httpd
+yum -y install httpd
 
 systemctl start httpd
 
